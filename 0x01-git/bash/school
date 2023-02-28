@@ -1,3 +1,1 @@
-echo "School" > bash/school
-
-echo echo School
+echo "School"
